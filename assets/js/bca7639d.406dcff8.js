@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_data_engineering_playbook=self.webpackChunkmy_data_engineering_playbook||[]).push([[4269],{4381:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/my-data-engineering-playbook/blog/tags/docusaurus","allTagsPath":"/my-data-engineering-playbook/blog/tags","count":4}')}}]);

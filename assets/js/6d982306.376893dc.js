@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_data_engineering_playbook=self.webpackChunkmy_data_engineering_playbook||[]).push([[4486],{6593:e=>{e.exports=JSON.parse('{"permalink":"/my-data-engineering-playbook/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

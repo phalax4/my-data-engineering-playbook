@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_data_engineering_playbook=self.webpackChunkmy_data_engineering_playbook||[]).push([[8801],{3199:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/my-data-engineering-playbook/blog/tags/hello","allTagsPath":"/my-data-engineering-playbook/blog/tags","count":2}')}}]);
